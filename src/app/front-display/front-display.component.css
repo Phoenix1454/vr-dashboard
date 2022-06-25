@@ -1,0 +1,18 @@
+h1{
+  position: fixed;
+  font-size: 60px;
+  font-weight: bold;
+  color: white;
+}
+
+.heading{
+  padding-top: 180px;
+  padding-left: 175px;
+}
+.buttons{
+  padding-bottom: 300px;
+  padding-left: 697px;
+}
+button{
+  margin-left: 50px;
+}

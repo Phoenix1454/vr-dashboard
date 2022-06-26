@@ -13,9 +13,11 @@
   color: #f1f1f1;
 }
 #myBtn {
-  width: 150px;
-  font-size: 18px;
-  padding: 6px;
+  font-family: 'Titan One', cursive;
+  width: 100px;
+  height: 40px;
+  font-size: 17px;
+  /* padding: px; */
   border: none;
   background: #000;
   color: #fff;
